@@ -8,5 +8,7 @@
 </head>
 <body>
     <div id="kontener"></div>
+    
+    <div id="stopka"></div>
 </body>
 </html>
