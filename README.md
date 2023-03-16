@@ -1,0 +1,2 @@
+# stronaIITP
+Strona - witryna Portal
